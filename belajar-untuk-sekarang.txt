@@ -10,5 +10,5 @@
 * materi tanda baca
 * jenis jenis struktur dalam membaca
 -belajar learning
+* coversion 
 -balajar copywriting
-* jenis-jenis dalam copywritng
