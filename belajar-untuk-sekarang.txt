@@ -5,4 +5,5 @@
 -balajar desain drafis/linux
 -menghilangkan kabiasaan buruk
 -membiasakan baca buku
+-belajar learning
 -balajar copywriting
