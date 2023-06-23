@@ -1,4 +1,6 @@
 -belajar bahasa inggris
+* prounon coversion
+* verbs 1,2 dan 3
 -balajar coding
 * Es6
 * fremework javacript
